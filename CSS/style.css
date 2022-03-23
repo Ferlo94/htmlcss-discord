@@ -18,12 +18,17 @@
     background-color: #3161e0;
     z-index: 69;
     width: 100%;
+    padding: 10px;
 }
 
 .logo {
-
+    vertical-align: middle;
+    padding-top: 10px;
 }
 
 nav, ul, li, a {
     display: inline-block;
+    text-decoration: none;
+    padding-top: 2px;
+    vertical-align: middle;
 }
