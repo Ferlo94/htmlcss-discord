@@ -9,7 +9,9 @@
 .contenitore {
     margin: auto;
     max-width: 1200px;
-    position: absolute;
+    /* ELIMINARE */
+    background-color: bisque;
+    min-height: 5000px;
 }
 
 .banner-alto {
@@ -17,13 +19,15 @@
     height: 70px;
     background-color: #3161e0;
     z-index: 69;
-    width: 100%;
+    width: 1200px;
     padding: 10px;
 }
 
 .logo {
     vertical-align: middle;
     padding-top: 10px;
+    margin-left: 133px;
+    margin-right: 33px;
 }
 
 nav, ul, li, a {
@@ -31,4 +35,22 @@ nav, ul, li, a {
     text-decoration: none;
     padding-top: 2px;
     vertical-align: middle;
+    margin-left: 20px;
+    color: white;
+}
+
+.bottone-banner {
+    background-color: white; 
+    color: #3161e0;
+    padding: 8px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+    margin-left: 143px;
+    margin-top: 9px;
+    vertical-align: middle;
+    position: fixed;
+    z-index: 70;
+  }
 }
