@@ -15,6 +15,11 @@ h1 {
     margin-bottom: 30px;
 }
 
+p{
+    font-size: 15px;
+    max-width: 550px;
+}
+
 /* GENERALI */
 .contenitore {
     margin: auto;
@@ -74,7 +79,7 @@ nav, ul, li, a {
     display: inline-block;
     font-size: 13px;
     top: 75%;
-    left: 40%;
+    left: 42%;
     transform: translate(-50%, -50%);
     text-align: center;
     display: inline-block;
@@ -93,7 +98,7 @@ nav, ul, li, a {
     display: inline-block;
     font-size: 13px;
     top: 75%;
-    left: 60%;
+    left: 58%;
     transform: translate(-50%, -50%);
     text-align: center;
     display: inline-block;
@@ -111,7 +116,7 @@ nav, ul, li, a {
 .testo-sezione-1 {
     color: white;
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
