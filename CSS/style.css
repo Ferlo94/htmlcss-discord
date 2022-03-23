@@ -79,12 +79,12 @@ nav, ul, li, a {
     display: inline-block;
     font-size: 13px;
     top: 75%;
-    left: 42%;
+    left: 43%;
     transform: translate(-50%, -50%);
     text-align: center;
     display: inline-block;
     border-radius: 30px;
-
+    cursor: pointer;
 }
 
 .bottone-sezione-1-nero {
@@ -98,11 +98,12 @@ nav, ul, li, a {
     display: inline-block;
     font-size: 13px;
     top: 75%;
-    left: 58%;
+    left: 57%;
     transform: translate(-50%, -50%);
     text-align: center;
     display: inline-block;
     border-radius: 30px;
+    cursor: pointer;
 }
         
 /* SEZIONI */
