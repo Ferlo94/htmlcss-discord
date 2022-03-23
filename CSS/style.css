@@ -52,5 +52,6 @@ nav, ul, li, a {
     vertical-align: middle;
     position: fixed;
     z-index: 70;
+    border-style: none;
   }
 }
